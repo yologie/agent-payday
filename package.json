@@ -1,0 +1,1 @@
+{"dependencies":{"@solana/spl-token":"^0.4.13","@solana/web3.js":"^1.98.0"},"description":"Agent Payday ($PAYDAY) — a coin that sells make.fun. make.fun bounty makefun-coin-promo-01 entry.","license":"MIT","name":"agent-payday","private":true,"scripts":{"launch":"node launch.ts","launch:dry":"node launch.ts --dry-run","start":"node main.ts"},"type":"module","version":"1.0.0"}
